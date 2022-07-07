@@ -32,7 +32,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': '7A012A0F7751',
+	'https://zenzapi.xyz': 'sanzychan01',
 	'https://dapuhy.xyz': 'piceg'
 }
 
